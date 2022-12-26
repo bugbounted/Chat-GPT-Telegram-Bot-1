@@ -1,0 +1,7 @@
+{
+  "name": "Chat GPT Telegram Bot",
+  "description": "A simple telegram bot connected to Chat GPT",
+  "repository": "https://github.com/awindsr/Chat-GPT-Telegram-Bot",
+  "logo": "",
+  "keywords": ["telegram", "chatgpt", "openai"]
+}
